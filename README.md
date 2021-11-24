@@ -1,12 +1,5 @@
 # Book Search Engine
 
-[<img src =" https://img.shields.io/depfu/abjj1999/book-search">](<LINK>)
-
-https://img.shields.io/github/languages/count/abjj1999/book-search
-
-https://img.shields.io/github/languages/top/abjj1999/book-search
-
-
 ## User Story 
     ` AS AN avid reader
     I WANT to search for new books to read
