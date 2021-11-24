@@ -1,8 +1,11 @@
-# Book Engine 
+# Book Search Engine
 
-https://img.shields.io/depfu/abjj1999/book-engine
-https://img.shields.io/github/languages/count/abjj1999/book-engine
-https://img.shields.io/github/languages/top/abjj1999/book-engine
+https://img.shields.io/depfu/abjj1999/book-search
+
+https://img.shields.io/github/languages/count/abjj1999/book-search
+
+https://img.shields.io/github/languages/top/abjj1999/book-search
+
 
 ## User Story 
     ` AS AN avid reader
